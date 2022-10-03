@@ -1,0 +1,13 @@
+{
+  "Droid_Versoin": "0.1-dev",
+  "versions": {
+    [
+      "Stable With Google Apps",
+      "http://google.com"
+    ],
+    [
+      "Stable without Google Apps",
+      "http://google.com"
+    ]
+  }
+}
