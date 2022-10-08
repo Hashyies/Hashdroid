@@ -1,13 +1,17 @@
 {
-  "Droid_Versoin": "0.1-dev",
-  "versions": {
-    [
-      "Stable With Google Apps",
-      "http://google.com"
-    ],
-    [
-      "Stable without Google Apps",
-      "http://google.com"
-    ]
-  }
+	"Droid_Versoin": "0.1-dev",
+	"versions": [
+	  {
+		"name": "Android Subsystem with Google Apps",
+  		"description": "Subsystem that has google apps you need in your daily life!",
+		"version": "0.01",
+		"url": ""
+	  },
+	  {
+		"name": "Android Subsystem without Google Apps",
+  		"description": "Subsystem that does not come with google apps!",
+		"version": "0.01",
+		"url": ""
+	  }
+	]
 }
